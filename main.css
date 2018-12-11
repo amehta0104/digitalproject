@@ -1,0 +1,273 @@
+.icon-bar {
+    width: 100%;
+    background-color: black;
+    overflow: auto;
+    color: white;
+    
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 10px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 30px;
+    font-family: bebas neue;
+}
+
+.icon-bar a:hover {
+        background-color: maroon;
+}
+
+.active {
+    background-color:lightcoral;
+}
+
+
+.barpageHome, bpCS1, bpCS2, bpCS3, bpCS4
+{
+    color: black;
+}
+
+
+
+
+
+body{
+    
+    
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+
+ h2, h3{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px; 
+    
+}
+
+.projectmainHeader{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 300;
+    padding: 4em;
+    background-image: url("https://www.interrail.eu/content/dam/mastheads/oia%20-%20greece%20-%20masthead.jpg");
+    color: white;
+    
+}
+
+.cityStatesIntro{
+    
+    font-size: 36px;
+    text-align: center;
+    padding: 3em;
+    font-weight: 600;
+}    
+
+    
+.csInfo {
+    
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 1em;
+    
+    
+}
+
+.by{
+    text-align: center;
+    padding: 1em;
+    font-size: 30px
+
+}
+
+.athensI{
+    
+    padding: 4em;
+    background-position: center;
+    font-size: 46px;
+    font-weight: 900;
+    background-image: url("https://i.ytimg.com/vi/vAeW7WgJq54/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.whoAthens{
+    
+    text-align: center;
+    font-size: 36px;
+    padding: 2em;
+    font-weight: 600;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg");
+    background-position: center;
+    color: aliceblue;
+    
+}
+
+.WhoInfo{
+    padding: 3em;
+    font-size: 26px;
+    text-align: center;
+}
+
+.agoragov{
+    
+    text-align: center;
+    padding: 2em;
+    font-size:36px; 
+    font-weight: 600;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg");
+    background-position: center;
+    color: aliceblue;
+}
+
+.agInfo{
+    text-align: center;
+    font-size:26px;
+    padding: 3em;
+    
+}
+
+.acropolis{
+    text-align: center;
+    padding: 2em;
+    font-size: 36px;
+    font-weight: 600;
+     background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg");
+    background-position: center;
+    color: aliceblue;
+    
+}
+
+
+.acropolisInfo{
+    
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 4em;
+    font-size: 26px;
+    
+}
+
+.spartaHead{
+    
+    text-align: center;
+    padding: 4em;
+    background-position: center;
+    font-size: 46px;
+    font-weight: 900;
+    background-image: url("http://ttnotes.com/images/ancient-sparta-sparta-3.jpg");
+    color: aliceblue;
+}
+
+.whoSparta, .Warrior, .spartaHistory {
+    
+    text-align: center;
+    font-size: 36px;
+    padding: 2em;
+    font-weight: 600;
+    background-image: url("https://assets.vg247.com/current//2018/10/Assassins-Creed%C2%AE-Odyssey_20180924215538.jpg");
+    
+    
+}
+
+.wSpartaInfo, .warriorInfo, .spartaHisInfo {
+    
+     text-align: center;
+    font-size:26px;
+    padding: 3em;
+}
+
+.cornithHead{
+    text-align: center;
+    padding: 4em;
+    background-position: center;
+    font-size: 46px;
+    font-weight: 900;
+    background-image: url("https://i0.wp.com/www.kidslovegreece.com/wp-content/uploads/2017/01/Corinth-canal-family-guided-tour-family-guided-tour-kids-love-greece-Peloponnese-Greek-mythology-family-vacation-package-activities-for-families.jpg?ssl=1");
+    
+}
+
+.whoCornith, .famous, .cGov{
+    text-align: center;
+    font-size: 36px;
+    padding: 2em;
+    font-weight: 600;
+    background-image: url("http://www.pamrovia.com/wp-content/uploads/2015/08/seadream-in-corinth-canal.jpg");
+    background-position: center;
+    color: aliceblue;
+    
+}
+
+.whoCInfo, .famousInfo, .cGovInfo{
+    
+    text-align: center;
+    font-size:26px;
+    padding: 3em;
+}
+
+.delphiHeader{
+    
+    text-align: center;
+    padding: 4em;
+    background-position: center;
+    font-size: 46px;
+    font-weight: 900;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d5/Delphi%2C_Greece_-_panoramio.jpg");
+    color: aliceblue;
+}
+
+.delphiWho, .inFacts{
+     text-align: center;
+    font-size: 36px;
+    padding: 2em;
+    font-weight: 600;
+    background-image: url("https://athensvantours.com/files/2016/10/Panoramic_view_of_the_Apollo_Temple_in_Delphi.jpg");
+    
+}
+
+.delphiWhoInfo, .inFactsInfo{
+    
+    text-align: center;
+    font-size:26px;
+    padding: 3em;
+    
+}
+
+.AthensGrid{
+
+display:grid;
+grid-template-columns: 1fr 1fr;
+grid-row-gap: .5em;
+grid-column-gap: .5em;
+padding-bottom: 2em;
+
+}
+
+#athenspic, #spartapic, #corinthpic, #delphipic{
+    
+    margin-top: 1em;
+    height: 469px;
+    width: 950px;
+}
+
+.athensgridText, .spartaggtext, .corinthggtext, .delphiggtext{
+    
+  font-size: 40px;
+  font-weight: 700;
+  padding-top: 1.25em;
+}
+
+
+
